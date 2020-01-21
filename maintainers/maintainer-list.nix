@@ -56,6 +56,12 @@
       fingerprint = "F466 A548 AD3F C1F1 8C88  4576 8702 7528 B006 D66D";
     }];
   };
+  "0x6d6178" = {
+    email = "root@0x6d6178.dev";
+    name = "Maxime Tréca";
+    github = "0x6d6178";
+    githubId = 57688883;
+  };
   "1000101" = {
     email = "jan.hrnko@satoshilabs.com";
     github = "1000101";
